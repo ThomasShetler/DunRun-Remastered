@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DunRun-Remastered", "DunRun-Remastered\DunRun-Remastered.csproj", "{53858489-C135-4536-B4B2-8837B0E9FD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53858489-C135-4536-B4B2-8837B0E9FD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53858489-C135-4536-B4B2-8837B0E9FD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53858489-C135-4536-B4B2-8837B0E9FD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53858489-C135-4536-B4B2-8837B0E9FD87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B60CE033-EB5F-41FD-94F1-B106714CE90D}
+	EndGlobalSection
+EndGlobal
